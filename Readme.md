@@ -1,8 +1,7 @@
 This is a sample repo
 =====================
 
+Now for something completely different
+--------------------------------------
 
-Hello, World!
--------------
-
-This is part of a second commit
+I want to merge this.
