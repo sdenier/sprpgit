@@ -1,3 +1,7 @@
 This is inside a folder
 
 We should add an artefact link
+
+and more text because
+we want to test the diff
+on the long run
